@@ -1,12 +1,10 @@
 # First Interactive UI (PartA)
 ## Hello Toast App
-### Task 5
-#### Some useful strings are added to the string.xml
+### Task 6
+#### Setting up a onclicklistener for both Toast and Count button. 
+##### When toast button is clicked it shows "Hello Toast"
 
-<img width="50%" src="screenshots/screenshot5.PNG"> 
+<img width="50%" src="screenshots/screenshot9.PNG"> 
 
-#### Using values of string resource file into the layout xml file.
-<img width="50%" src="screenshots/screenshot6.PNG"> 
-
-#### By extracting the hardcoded string to the strings.xml, all the warning messages has been removed.
-<img width="50%" src="screenshots/screenshot7.PNG"> 
+#### When count button is clicked the value of count is incremented and final value is showed through the textview element.
+<img width="50%" src="screenshots/screenshot8.PNG"> 
