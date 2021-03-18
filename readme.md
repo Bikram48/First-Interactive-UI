@@ -1,10 +1,9 @@
 # First Interactive UI (PartA)
 ## Hello Toast App
 ### Task 6
-#### Setting up a onclicklistener for both Toast and Count button. 
-##### When toast button is clicked it shows "Hello Toast"
+#### Changes has been made into the layout so that app fits in both portrait and landscape mode.
+##### Portrait Mode
+<img width="50%" src="screenshots/screenshot10.png"> 
 
-<img width="50%" src="screenshots/screenshot9.png"> 
-
-#### When count button is clicked the value of count is incremented and final value is showed through the textview element.
-<img width="50%" src="screenshots/screenshot8.png"> 
+##### Landscape Mode
+<img width="50%" src="screenshots/screenshot11.png"> 
