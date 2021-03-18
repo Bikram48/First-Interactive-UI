@@ -1,6 +1,6 @@
 # First Interactive UI (PartA)
 ## Hello Toast App
-### Task 3
-#### Some attributes has been set to the buttons such as id, background and textcolor.
+### Task 4
+#### The new textview has been added which will be useful to show the count message.
 
-<img width="50%" src="screenshots/screenshot3.png"> 
+<img width="50%" src="screenshots/screenshot4.png"> 
