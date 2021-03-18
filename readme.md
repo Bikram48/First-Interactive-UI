@@ -8,4 +8,4 @@
 <img width="50%" src="screenshots/screenshot10.png"> 
 
 ##### Landscape Mode
-<img width="50%" src="screenshots/screenshot11.png"> 
+<img width="90%" src="screenshots/screenshot11.png"> 
